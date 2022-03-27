@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JanSC1411
+- 👀 I’m interested in ESP32, W2812B, Raspberry Pi
+- 🌱 I’m currently learning ESP32
